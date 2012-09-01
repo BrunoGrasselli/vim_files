@@ -3,7 +3,7 @@ My vim files
 
 Plugins:
 * bufexplorer
-* nerdcommenter
+* commentary
 * pathogen
 * rails
 * snipmate
