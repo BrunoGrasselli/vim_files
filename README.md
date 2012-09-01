@@ -6,6 +6,7 @@ Plugins:
 * commentary
 * pathogen
 * rails
+* repeat
 * snipmate
 * surround
 * syntastic
