@@ -10,3 +10,4 @@ Plugins:
 * snipmate
 * surround
 * syntastic
+* web-indent
