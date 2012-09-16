@@ -1,0 +1,32 @@
+snippet e
+	<%= ${1} %>
+snippet %
+	<% ${1} %>
+snippet if
+	<% if ${1:condition} %>
+	  ${2}
+	<% end %>
+snippet unless
+	<% unless ${1:condition} %>
+	  ${2}
+	<% end %>
+snippet end
+	<% end %>
+snippet else
+	<% else %>
+snippet conf
+	<%= content_for :${1} do %>
+	  ${2}
+	<% end %>
+snippet slt
+	<%= stylesheet_link_tag "${1}" %>
+snippet jit
+	<%= javascript_include_tag "${1}" %>
+snippet lt
+	<%= link_to ${1:text}, ${2:path} %>
+snippet t
+	t(:${1}, scope: ${2})
+snippet each
+	<% @${1}.each do |${2}| %>
+	  ${3}
+	<% end %>
