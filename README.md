@@ -10,4 +10,5 @@ Plugins:
 * snipmate
 * surround
 * syntastic
+* tabular
 * web-indent
