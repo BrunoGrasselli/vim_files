@@ -4,6 +4,7 @@ My vim files
 Plugins:
 * bufexplorer
 * commentary
+* csv
 * pathogen
 * rails
 * repeat
