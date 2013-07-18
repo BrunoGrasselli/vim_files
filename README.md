@@ -3,6 +3,7 @@ My vim files
 
 Plugins:
 * bufexplorer
+* CSApprox
 * commentary
 * csv
 * pathogen
