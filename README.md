@@ -10,8 +10,8 @@ Plugins:
 * pathogen
 * rails
 * repeat
-* snipmate
-* surround
-* syntastic
-* tabular
+* snipmate ( https://github.com/garbas/vim-snipmate )
+* surround ( https://github.com/tpope/vim-surround )
+* syntastic ( https://github.com/scrooloose/syntastic )
+* tabular ( https://github.com/godlygeek/tabular )
 * web-indent
