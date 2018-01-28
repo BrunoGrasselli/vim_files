@@ -1,11 +1,10 @@
-My vim files
-=============
+# Vim Files
 
-Plugins:
-* CSApprox
+## Plugins
 * ack ( https://github.com/mileszs/ack.vim )
 * bufexplorer
 * commentary ( https://github.com/tpope/vim-commentary )
+* CSApprox
 * pathogen
 * rails
 * repeat
