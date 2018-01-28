@@ -2,10 +2,9 @@ My vim files
 =============
 
 Plugins:
-* bufexplorer
 * CSApprox
+* bufexplorer
 * commentary
-* csv
 * pathogen
 * rails
 * repeat
@@ -13,4 +12,5 @@ Plugins:
 * surround
 * syntastic
 * tabular
+* vim-go
 * web-indent

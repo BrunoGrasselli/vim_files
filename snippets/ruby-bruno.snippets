@@ -1,0 +1,13 @@
+snippet dr
+	${1:result}.each do |row|
+	  puts '-' * 20
+	  row.each do |c,v|
+	  	puts "#{c}: #{v.is_a?(BigDecimal) ? v.to_s('F') : v}"
+	  end
+	end
+
+snippet ir
+	#{${1}}${2}
+
+snippet db
+	#{db.${1:database}}${2:table} ${3:as}
