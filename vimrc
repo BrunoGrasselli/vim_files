@@ -15,7 +15,6 @@ set mouse=a
 " statusline
 set statusline=%f       "path to the file
 set statusline+=%=      "left/right separator
-set statusline+=%{fugitive#statusline()}
 set statusline+=\ %y      "filetype
 set statusline+=\ %c,   "cursor column
 set statusline+=%l/%L   "cursor line/total lines
