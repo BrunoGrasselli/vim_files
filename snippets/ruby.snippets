@@ -140,10 +140,6 @@ snippet defds
 	def_delegators :${1:@del_obj}, :${2:del_methods}
 snippet am
 	alias_method :${1:new_name}, :${2:old_name}
-snippet app
-	if __FILE__ == $PROGRAM_NAME
-		${1}
-	end
 # usage_if()
 snippet usai
 	if ARGV.${1}
@@ -336,7 +332,7 @@ snippet do
 		${2}
 	end
 snippet :
-	:${1:key} => ${2:"value"}${3}
+	${1:key}: ${2:"value"}${3}
 snippet ope
 	open(${1:"path/or/url/or/pipe"}, "${2:w}") { |${3:io}| ${4} }
 # path_from_here()

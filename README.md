@@ -1,12 +1,10 @@
-My vim files
-=============
+# Vim Files
 
-Plugins:
+## Plugins
 * ack ( https://github.com/mileszs/ack.vim )
 * bufexplorer
-* CSApprox
 * commentary ( https://github.com/tpope/vim-commentary )
-* csv
+* CSApprox
 * pathogen
 * rails
 * repeat
@@ -14,4 +12,5 @@ Plugins:
 * surround ( https://github.com/tpope/vim-surround )
 * syntastic ( https://github.com/scrooloose/syntastic )
 * tabular ( https://github.com/godlygeek/tabular )
+* vim-go ( https://github.com/fatih/vim-go )
 * web-indent
